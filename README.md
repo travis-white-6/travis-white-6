@@ -5,6 +5,7 @@
 - Building things I love to use
 
 ✨ Deployed live
+- Mobile app Flannel. Using OCR ML to parse and split receipts with friends. Easy to pay for the bill and get fully paid back from everyone at the table. https://flannelapp.com/
 - Mobile app Hot Seat. A fun social question based game to play; grab some friends and some beers to play https://www.hotseatapp.com/
 - Web app Auto DJ. Better control what's in Spotify using this web app https://auto-dj-app.herokuapp.com/login
 - Slack App + Discord App for a bot CatMe that will respond to /catme (slack) or !catme (discord) https://catme-app.uc.r.appspot.com/
