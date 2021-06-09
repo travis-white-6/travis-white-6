@@ -1,7 +1,8 @@
 👋 Hi, I’m @travis-white-6
 
 👀 I’m interested in ...
-- Building for social impact and good
+- Continuously learning and growing
+- Social impact and good causes
 - Building things I love to use
 
 ✨ Deployed live
